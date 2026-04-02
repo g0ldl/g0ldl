@@ -1,16 +1,55 @@
 ## Hi there 👋
 
-<!--
-**g0ldl/g0ldl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+XXXXXXXXXXXXXXXXXXX$$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXxx+++xxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxXXXXXXXXXXXXXXXXXx+;;;++xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx++xXXXXXXxxxxxxxxxxxx+;;::::;;xXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx+;;;+xxxxxxx++++++;;;::::::::;;;;+xXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+::;++;;:::::::::::::::::;+++++xXx+;xXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX+;XXXX$$X:..............:X$XXxxX$XXX+;xXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXX$x+x:...;xX+..............+x+:...;X$XXx+;xXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX+x;....:++;..............+x;.....;XXXX+;+XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXX$X;;;...:;++...............:++:....;Xxxx+;;xXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXX$x:.;+++++;:.:;++xxxxXxxx+;.:+++++xxx;++;:;xXXXXXXXxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXX$x:...::::;xXXXXXxxxxxxxxxxx:.:;++;:.::::::xXXXXXXxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXx:.....:++;;;;;;;;;;;;;;;+x+...........::;xXXXXXxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXx:......;;;::::::::::::::;;;...........::;xXXXxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXx;.........::;;;;;;;;;;;;::............::+xXXXXXxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX+:....................................:+xXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXx;:..........:::::::..:..............:;xXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXx;;::::::::::::::::......:........:;+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx+;:........................:::;+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx+;:.....................:;xXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx;...................;+xxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx+++;......................:;;++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx++;;.........................::;;;+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXxx++;;::::.......::;;;;::.......:::::::;;+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXxx+;::::;+++;;+++++++++++x++;:......::::::;;+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXx+;::..:::;;xxxxx++++++++++xxxx+;....:::;++;;;;+xxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXx;::......:+xxxxxx++++++++++xxxxxxx;..::;+xxxx+;;;xxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXX$XX+;:.......;xxxxxxxx++++++++++xxxxxxXXx:.::;xxXXXx;;;+xxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXX$$Xx+::.......;Xxxxxxxxxx+++++++++xxxxxxxXXX;::;+xxXXXx+;;;+xxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXX$$Xx;:........+xxxxxxxxxxxx+++++++xxxxxxxxXXXX+::;+xXXXXx;;;;+xxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXX$XXx;::......:xxxxxxxxxxxxxx+++++++xxxxxxxxXXXXX+:;+xxXXXX+;:;;;+xxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXX$XXx+;:......:xxxxxxxxxxxxxxxxx++xxxxxxxxxxxxXXXXX+:;+xxXXXx;;:;;;;+xxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXxxx+;:.......+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXX+;+xxxXXx+;:::::;;+xxxxxxxxxxxxxx
+XXXXXXXXXXXXXXx++xx+;:......+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXX;;+xxxXx+;::::::;;;+xxxxxxxxxxxx
+XXXXXXXXXXXXX+::;++;:......;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXX;;+xxxx+;:::::::;+++xxxxxxxxxxx
+XXXXXXXXXXXX+...;++;:.....:+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXx;+xxxx+;:::::::.:;++xxxxxxxxxx
+XXXXXXXXXXX+...::;+;:.....;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXX;;+xxx+;::::::....:;;xxxxxxxxx
+XXXXXXXXXXx....::;+;:....:+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXx;++xx+;:::::::::...:;xxxxxxxx
+XXXXXXXXXx:.....:;+;:....;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXX+;+xx+;::::;;;::::..:+xxxxxxx
+XXXXXXXXX;.....:;;+;:....+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXx;++x+;::::xx+;;:::..:+xxxxxx
+XXXXXXXXx.....:;+;;::...:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXX+;+++;::::+xx;;::....;xxxxxx
+XXXXXXXX:.....:+x;;:....;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXX+;;+;;::::+xx+;;:....:+xxxxx
+XXXXXXX;.....:;xx:;:....+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXX+:::::::::+xxx+;:.....;xxxxx
+XXXXXXx......:+X+:::....+xxxxxxxxxxxxxxxxx++++++xxxxxxxxxxxxxxxxxxXXXXXXx:::::::::;xxx+;::....:+xxxx
+XXXXXX;......;xX+:::....+xxxxxxxxxxxxxx+++++++++xxxxxxxxxxxxxxxxxxXXXXXXx:::::::::;xXXx+;:.....;xxxx
+XXXXXx:.....:+XX+::.....+xxxxxxxxx+++++++++++++++xxxxxxxxxxxxxxxxxXXXXXXx:::::::::;xXXx+;:.....:+xxx
+XXXXX;......;xXX+::.....+xxxxxxx+++++++++++++++xxxxxxxxxxxxxxxxxxxXXXXXXx:::::::::;xXXXx;;:.....;xxx
+XXXXx:..:..:+XXX+::.....+xxxxxx++xxijustluvsleepingxxxxxxxxxxxxxxxXXXXXXx:.:::::::;xXXXx+;:.....:xXX
